@@ -1,4 +1,4 @@
-#Vecta Corporation 
+# Vecta Corporation 
 
 This repo have the homepage for the Vecta Corportion made using simple **html5**.
 
